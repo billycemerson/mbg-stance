@@ -1,7 +1,7 @@
-# Stance Detection on Indonesia’s “Makan Bergizi Gratis (MBG)” Policy
+# Stance Detection on “Makan Bergizi Gratis (MBG)” Policy
 
 ## Project Description
-This project aims to analyze **public stance toward Indonesia’s “Makan Bergizi Gratis (MBG)” policy** — a national free meal initiative introduced by the government.
+This project aims to analyze **public stance toward “Makan Bergizi Gratis (MBG)” policy** — a national free meal initiative introduced by the government.
 
 Using **YouTube comments** as the primary data source, the project classifies public opinions into three stance categories:
 
@@ -21,7 +21,6 @@ A fine-tuned **IndoBERT** model will be developed to automatically classify stan
 | **Data Labeling** | Labeling comments as FAVOR / AGAINST / NEUTRAL using Label Studio | 🟡 In Progress |
 | **Model Fine-Tuning** | Fine-tuning IndoBERT for stance detection | ⬜ Planned |
 | **Evaluation & Visualization** | Measuring model accuracy and analyzing stance distribution | ⬜ Planned |
-| **Documentation & Deployment** | Preparing README, notebooks, and demo | ⬜ Planned |
 
 ---
 
