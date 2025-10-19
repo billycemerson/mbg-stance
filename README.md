@@ -17,10 +17,11 @@ A fine-tuned **IndoBERT** model will be developed to automatically classify stan
 
 | Stage | Description | Status |
 |--------|--------------|--------|
-| **Data Collection** | Scraping YouTube videos & comments related to MBG using YouTube API v3 | ✅ Completed |
-| **Data Labeling** | Labeling comments as FAVOR / AGAINST / NEUTRAL using Label Studio | 🟡 In Progress |
-| **Model Fine-Tuning** | Fine-tuning IndoBERT for stance detection | ⬜ Planned |
-| **Evaluation & Visualization** | Measuring model accuracy and analyzing stance distribution | ⬜ Planned |
+| **Data Collection** | Scraping YouTube videos & comments related to MBG | Completed |
+| **Data Cleaning** | Removing duplicates, irrelevant comments (replies) | Completed |
+| **Data Labeling** | Labeling comments as FAVOR / AGAINST / NEUTRAL using Label Studio | In Progress |
+| **Model Fine-Tuning** | Fine-tuning IndoBERT for stance detection | Planned |
+| **Evaluation & Visualization** | Measuring model accuracy and analyzing stance distribution | Planned |
 
 ---
 
